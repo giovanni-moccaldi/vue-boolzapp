@@ -1,0 +1,28 @@
+.main {
+    height: 50px;
+    background-color: green;
+
+}
+
+.second-main {
+    height: 700px;
+    width: 1200px;
+    border: 1px solid black;
+}
+
+.left {
+    border: 1px solid black;
+    width: 70%;
+    background-color: rgb(234, 63, 63);
+}
+
+.right {
+    border: 1px solid black;
+    width: 30%;
+
+}
+
+.item-avatar {
+    height: 40px;
+    width: 40px;
+}
