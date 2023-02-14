@@ -13,7 +13,6 @@
 .left {
     border: 1px solid black;
     width: 70%;
-    background-color: rgb(234, 63, 63);
 }
 
 .right {
@@ -22,7 +21,17 @@
 
 }
 
+#cover {
+    width: 100%;
+}
+
 .item-avatar {
     height: 40px;
     width: 40px;
+}
+
+.messaggi {
+    width: 100%;
+    height: 100%;
+
 }
